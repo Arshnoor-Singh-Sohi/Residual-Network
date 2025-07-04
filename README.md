@@ -45,25 +45,6 @@ This project covers critical deep learning concepts and architectural innovation
 - **Computational Efficiency** in deep networks
 - **Scalability** to hundreds of layers
 
-## 📂 Repository Structure
-
-```
-ResNet-Implementation/
-│
-├── ResNet50.ipynb                   # Complete implementation and theory
-├── README.md                        # This comprehensive guide
-├── models/
-│   ├── resnet_from_scratch.h5      # Custom trained model
-│   └── dog_cat_classifier.h5       # Transfer learning model
-├── architectures/
-│   ├── resnet_blocks.py            # Residual block implementations
-│   ├── resnet18.py                 # ResNet-18 variant
-│   ├── resnet34.py                 # ResNet-34 variant
-│   ├── resnet50.py                 # ResNet-50 variant
-│   └── resnet101.py                # ResNet-101 variant
-└── requirements.txt                 # Dependencies
-```
-
 ## 🚀 How to Run
 
 ### Prerequisites
